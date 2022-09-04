@@ -1,3 +1,3 @@
 # Colored Markers
 
-CSS makes customising HTML elements an effortless process. 
+CSS makes customizing HTML elements an effortless process. 
